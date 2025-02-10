@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RKCamera_Duplicate")(type "KiCad")(uri "${KIPRJMOD}/Library/RKCamera_Duplicate.pretty")(options "")(descr ""))
+)
